@@ -1,0 +1,14 @@
+## Interface: 11200
+## Title: WRUGS
+## Author: Spare (EU-Defias Brotherhood)
+## Version: 1.1.4 Beta
+## Notes: Whisper authentication addon, against gold spam
+## SavedVariables: Authenticated, wrugscmd, blocklog, WRUGS_Hidepass, WRUGS_Privacy, WRUGS_Auth, WRUGS_Cmd, WRUGS_Blocklog, WRUGS_Enabled
+## eMail: admin@zl-lan.nl
+## URL: www.wow-durance.com
+## DefaultState: Enabled
+## LoadOnDemand: 0
+localization.lua
+localization_de.lua
+localization_fr.lua
+WRUGS.lua
